@@ -1,4 +1,6 @@
 file fot test 
 add new line 
-аааа
-ппп
+aaaa changed 
+
+one line delited
+new string 27.07.2021
